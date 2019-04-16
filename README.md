@@ -2,6 +2,7 @@
 
 ## Awesome Lists
 - https://github.com/chentsulin/awesome-graphql
+- https://gitlab.com/zzanzare/awesome-graphql
 - 
 
 ## Learning Resources
@@ -30,6 +31,8 @@
 - https://github.com/Urigo/graphql-modules
 - https://github.com/graphql-compose/graphql-compose
 - https://github.com/prisma/graphql-middleware
+- https://www.graph.cool
+- https://hasura.io
 
 ## Company Adoptions
 - https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712
