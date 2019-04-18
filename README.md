@@ -16,6 +16,7 @@
 - https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb
 - https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching
 - https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55
+- https://medium.engineering/graphql-server-design-medium-34862677b4b8
 
 ## Services
 - https://www.prisma.io/
